@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo semua 👋
 
 <!--
 **MyFreds/MyFreds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🖥 I'm begginer Front-End web developer
+- 📚 I'm currently learning Java, JavaScript & PHP
+
+#### My Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java&theme=light)](https://skillicons.dev)
+
