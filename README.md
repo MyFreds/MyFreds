@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,ai&theme=light)](https://skillicons.dev)
 
 ##### Contact Me
-![https://instagram.com/my.freds](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+[https://instagram.com/my.freds](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://threads.com/my.freds](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 ![https://www.tiktok.com/@code.freds?_t=ZS-8xV7UYkPzwm&_r=1](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 ![https://wa.me/6282256409502](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
