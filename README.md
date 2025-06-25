@@ -40,11 +40,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MyFreds/MyFreds/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MyFreds/MyFreds/output/pacman-contribution-graph.svg">
 </picture>
-
-![Tetris Contributions](https://raw.githubusercontent.com/MyFreds/MyFreds/main/tetris.svg)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MyFreds/MyFreds/output/github-city-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MyFreds/MyFreds/output/github-city-contribution-graph.svg">
-  <img alt="github city contribution graph" src="https://raw.githubusercontent.com/MyFreds/MyFreds/output/github-city-contribution-graph.svg">
-</picture>
