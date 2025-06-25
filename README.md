@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Aku MyFreds</h1>
-<h3 align="center">Aku begginer Front-End web developer dari Indonesia</h3>
+<h3 align="center">Aku begginer Front-End web developer dan PocketMine-MP Plugin Developer dari Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myfreds&label=Profile%20views&color=0e75b6&style=flat" alt="myfreds" /> </p>
 
@@ -24,7 +24,7 @@
 
 ![MyFred's Github stats](https://github-readme-stats.vercel.app/api/top-langs?username=myfreds&show_icons=true&theme=synthwave&layout=donut)
 
-![](https://nirzak-streak-stats.vercel.app/?user=MyFreds&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MyFreds&theme=synthwave&hide_border=false)
 
 ![MyFred's GitHub stats](https://github-readme-stats.vercel.app/api?username=myfreds&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave&layout=compact)
 
@@ -33,3 +33,10 @@
 
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MyFreds&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### Play Game with Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MyFreds/MyFreds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MyFreds/MyFreds/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MyFreds/MyFreds/output/pacman-contribution-graph.svg">
+</picture>
