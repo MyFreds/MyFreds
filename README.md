@@ -1,32 +1,29 @@
-## Halo semua 👋
+<h1 align="center">Hi 👋, Aku MyFreds</h1>
+<h3 align="center">Aku begginer Front-End web developer dari Indonesia</h3>
 
-<!--
-**MyFreds/MyFreds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myfreds&label=Profile%20views&color=0e75b6&style=flat" alt="myfreds" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myfreds" alt="myfreds" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **FloxyNetwork**
 
-- 🖥 I'm begginer Front-End web developer
-- 📚 I'm currently learning Java, JavaScript & PHP
+- 🌱 I’m currently learning **Java, JavaScript & PHP**
 
-##### My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,java,ai&theme=light)](https://skillicons.dev)
+- 👨‍💻 All of my projects are available at [https://fredy.netlify.app](https://fredy.netlify.app)
 
-##### Contact Me
-[![https://instagram.com/my.freds](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/my.freds)
-[![https://threads.com/my.freds](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://threads.com/my.freds)
-[![https://www.tiktok.com/@code.freds?_t=ZS-8xV7UYkPzwm&_r=1](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code.freds?_t=ZS-8xV7UYkPzwm&_r=1)
-![https://wa.me/6282256409502](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
-[![https://youtube.com/fredymaruf](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/fredymaruf)
+- 📫 How to reach me **predimahrobi@gmail.com**
 
-##### My Github Stats
-![MyFreds's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyFreds&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://instagram.com/my.freds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="my.freds" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/fredymaruf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fredymaruf" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">My Skills/h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=myfreds&show_icons=true&locale=en&layout=compact" alt="myfreds" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myfreds&show_icons=true&locale=en" alt="myfreds" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myfreds&" alt="myfreds" /></p>
