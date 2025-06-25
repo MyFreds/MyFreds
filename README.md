@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myfreds&label=Profile%20views&color=0e75b6&style=flat" alt="myfreds" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?myfreds=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=MyFreds&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on **FloxyNetwork**
 
@@ -28,3 +28,9 @@
 ![MyFred's GitHub stats](https://github-readme-stats.vercel.app/api?username=myfreds&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave&layout=compact)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myfreds&" alt="myfreds" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MyFreds&limit=5&theme=dark&combine_all_yearly_contributions=true)
