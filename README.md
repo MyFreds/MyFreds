@@ -27,3 +27,6 @@ Here are some ideas to get you started:
 [![https://www.tiktok.com/@code.freds?_t=ZS-8xV7UYkPzwm&_r=1](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@code.freds?_t=ZS-8xV7UYkPzwm&_r=1)
 ![https://wa.me/6282256409502](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 [![https://youtube.com/fredymaruf](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/fredymaruf)
+
+##### My Github Stats
+![MyFreds's GitHub stats](https://github-readme-stats.vercel.app/api?username=MyFreds&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
