@@ -42,7 +42,13 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MyFreds/repo/output/tetris-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MyFreds/repo/output/tetris-contribution-graph.svg">
-  <img alt="tetris contribution graph" src="https://raw.githubusercontent.com/MyFreds/repo/output/tetris-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MyFreds/MyFreds/output/tetris-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MyFreds/MyFreds/output/tetris-contribution-graph.svg">
+  <img alt="tetris contribution graph" src="https://raw.githubusercontent.com/MyFreds/MyFreds/output/tetris-contribution-graph.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MyFreds/MyFreds/output/github-city-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MyFreds/MyFreds/output/github-city-contribution-graph.svg">
+  <img alt="github city contribution graph" src="https://raw.githubusercontent.com/MyFreds/MyFreds/output/github-city-contribution-graph.svg">
 </picture>
